@@ -1,22 +1,24 @@
 ---
-title: "My Final Project Template"
-author: Your name here
-subtitle: Subtitle here if desired
+title: "Analysis of Urban Tree Cover: City of Buffalo 2024"
+author: Jack Mernitz
+subtitle: Work in Progress
 date: today
 date-format: long
 ---
 
 # Introduction
 
-\[\~ 200 words\]
+Trees are often overlooked as a component of urban spaces. With so much focus on the growth of infrastructure, living space, and work spaces, green places are left little room to grow. Tree leaf area coverage, while possibly annoying for lawn owners in the fall, is directly related to shade capacity and other environmental benefits of trees. Permeable surfaces where trees grow also reduce runoff, trees cool the surrounding air in sufficient density, and the mental and aesthetic benefits of green spaces in urban areas for residents and tourists are notable. Urban forestry bureaus seek to classify and present some of these benefits to the public.
 
-Clearly stated background and questions / hypotheses / problems being addressed. Sets up the analysis in an interesting and compelling way. Include figures if you like.
+Quantifying and estimating the possible value of these services in relation to tree occurrence seemed like an interesting topic to delve into. Vacant spots and stumps of former trees cannot provide benefits any longer. While an intensive endeavor to replace fully grown trees, my project seeks to enumerate how useful it could be to increase tree cover. Parsing data to assign relative values for comparable trees will assist in more accurate estimation of services. Individual versus collective benefit will also be questioned, but only after calculation of total possible benefits are complete .
 
 # Materials and methods
 
 \[\~ 200 words\]
 
 Narrative: Clear narrative description of the data sources and methods. Includes data from at least two sources that were integrated / merged in R.
+
+Publicly available data from the City of Buffalo Bureau of Forestry includes multiple categories to represent trees' ecosystem services. Downloading and processing this data is necessary, as there are 133,230 entries in the dataset.
 
 Code: The code associated with the project is well organized and easy to follow. Demonstrates mastery of R graphics and functions.
 
